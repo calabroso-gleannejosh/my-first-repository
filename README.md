@@ -2,7 +2,7 @@ README.md
 
 # My First GitHub Repository
 
-**Name:** Kent Brian R. Calderon
+**Name:** Gleanne Josh Calabroso
 
 **Course:** Introduction to Computing
 
